@@ -51,9 +51,9 @@ export default function PenetrationTestingPage() {
   const methodology = [
     {
       phase: "Planning & Reconnaissance",
-      description: "Information gathering and target analysis",
-      duration: "1-2 days",
-      activities: ["Passive reconnaissance", "OSINT gathering", "Attack surface mapping", "Threat modeling"]
+      description: "Informatieverzameling en doelwitanalyse",
+      duration: "1-2 dagen",
+      activities: ["Passieve verkenning", "OSINT verzameling", "Attack surface mapping", "Threat modeling"]
     },
     {
       phase: "Scanning & Enumeration", 

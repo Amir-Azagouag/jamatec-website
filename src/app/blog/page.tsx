@@ -10,11 +10,11 @@ export default function BlogPage() {
   const blogPosts = [
     {
       id: 1,
-      title: "De Toekomst van Cybersecurity in 2025",
-      excerpt: "Ontdek de nieuwste trends en bedreigingen in cybersecurity en hoe u uw organisatie kunt beschermen tegen geavanceerde aanvallen.",
-      category: "Cybersecurity",
+      title: "Nieuwe NIS2 Richtlijn: Impact voor Nederlandse Bedrijven",
+      excerpt: "Alles wat u moet weten over de NIS2 richtlijn die in oktober 2024 van kracht wordt en hoe JamaTec u helpt met compliance.",
+      category: "Compliance",
       date: "8 September 2025",
-      readTime: "5 min",
+      readTime: "8 min",
       image: "/api/placeholder/400/250",
       author: "Jamal Azagouag"
     },

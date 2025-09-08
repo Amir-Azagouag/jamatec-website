@@ -103,8 +103,9 @@ export default function Home() {
             </h1>
             
             <p className="text-xl text-gray-400 mb-8 leading-relaxed max-w-3xl mx-auto">
-              <span className="text-blue-400 font-bold">Opgericht 1 maart 2004</span> - uw partner in kantoorautomatisering en cybersecurity. 
-              Van de eerste server tot de modernste beveiligingsoplossingen.
+              <span className="text-blue-400 font-bold">Opgericht 1 maart 2004</span> - uw partner in cybersecurity & IT-infrastructure. 
+              Van kantoorautomatisering tot geavanceerde threat detection en incident response.
+              <br /><span className="text-green-400 font-semibold">500+ tevreden klanten • 24/7 noodlijn • ISO 27001 gecertificeerd</span>
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">

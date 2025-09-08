@@ -27,7 +27,7 @@ export default function ServicesPage() {
       href: "/services/penetration-testing",
       features: ["Webapplicatie testen", "Netwerkbeveiligingsanalyse", "Social engineering tests", "Red Team oefeningen"],
       timeline: "1-3 weken",
-      price: "Vanaf €4.500"
+      price: "Vanaf €3.900"
     },
     {
       id: "security-consultancy",

@@ -21,7 +21,7 @@ export default function ContactPage() {
       icon: Phone,
       title: "Telefoon",
       primary: "030 657 9006",
-      secondary: "Noodlijn 24/7",
+      secondary: "WhatsApp: 06 123 456 78",
       description: "Directe hulp bij beveiligingsincidenten"
     },
     {
