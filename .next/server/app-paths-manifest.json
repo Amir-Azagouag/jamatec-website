@@ -1,0 +1,9 @@
+{
+  "/over-ons/page": "app/over-ons/page.js",
+  "/page": "app/page.js",
+  "/services/page": "app/services/page.js",
+  "/services/penetration-testing/page": "app/services/penetration-testing/page.js",
+  "/services/security-training/page": "app/services/security-training/page.js",
+  "/services/soc-monitoring/page": "app/services/soc-monitoring/page.js",
+  "/werken-bij/page": "app/werken-bij/page.js"
+}
