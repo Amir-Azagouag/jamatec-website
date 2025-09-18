@@ -1,0 +1,4 @@
+Sitemap: https://jamatec.nl/sitemap.xml
+
+User-agent: *
+Disallow:

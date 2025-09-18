@@ -1,0 +1,23 @@
+HTTP/2 200 
+server: openresty
+date: Thu, 18 Sep 2025 00:45:27 GMT
+content-type: text/html
+cf-ray: 980cd216a9f714e7-LHR
+cache-control: max-age=0, no-store
+expires: Thu, 11 Sep 2025 22:50:59 GMT
+last-modified: Fri, 28 Mar 2025 21:07:19 GMT
+cf-cache-status: HIT
+age: 525268
+accept-ranges: bytes
+set-cookie: __cf_bm=eaOHblW8SAljyw3nWrjtAV8rxSdQm6qjDjyIQPijo3w-1758156327-1.0.1.1-jDzLNS9qbOFuac3UVQ.NCEGEpTrYsF6Dy3.yNmHey5D1ueMGeUljYiwyyzJq8aGykxwfPwQf6bzhq6qqwY8F7KYlNddOkfChmXu2OSixrYU; path=/; expires=Thu, 18-Sep-25 01:15:27 GMT; domain=.zyro.com; HttpOnly
+alt-svc: h3=":443"; ma=86400
+x-hostinger-datacenter: gcp-euw2
+x-hostinger-node: gcp-euw2-builder-edge3
+content-security-policy: frame-ancestors zyro.com *.zyro.com *.builder-preview.com *.zyro.space *.hostinger.com *.hostinger.io *.hostinger.in *.hostinger.co.uk
+link: <https://assets.zyrosite.com>; rel=preconnect; crossorigin, <https://userapp.zyrosite.com>; rel=preconnect; crossorigin, <https://fonts.googleapis.com>; rel=preconnect; crossorigin, <https://fonts.gstatic.com>; rel=preconnect; crossorigin, <https://cdn.zyrosite.com>; rel=preconnect; crossorigin
+strict-transport-security: max-age=63072000; includeSubDomains; preload;
+x-content-type-options: nosniff
+x-powered-by: HostingerWebsiteBuilder
+platform: hostinger
+x-xss-protection: 1; mode=block
+

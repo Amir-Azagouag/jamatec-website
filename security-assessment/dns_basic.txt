@@ -1,0 +1,9 @@
+Server:		192.168.2.254
+Address:	192.168.2.254#53
+
+Non-authoritative answer:
+Name:	jamatec.nl
+Address: 34.120.137.41
+Name:	jamatec.nl
+Address: 2600:1901:0:84ef::
+

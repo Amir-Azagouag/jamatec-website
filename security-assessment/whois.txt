@@ -1,0 +1,26 @@
+Domain name: jamatec.nl
+Status:      active
+
+Reseller:
+   HOSTINGER operations, UAB
+   Svitrigailos str. 34
+   03230 Vilnius
+   Lithuania
+
+Registrar:
+   Realtime Register
+   Burgemeester Drijbersingel 51
+   8021JB Zwolle
+   Netherlands
+
+DNSSEC:      no
+
+Domain nameservers:
+   ns2.dns-parking.com
+   ns1.dns-parking.com
+
+Creation Date: 2002-02-11
+
+Updated Date: 2025-01-14
+
+Record maintained by: SIDN BV

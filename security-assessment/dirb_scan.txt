@@ -1,0 +1,47 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+START_TIME: Thu Sep 18 02:50:16 2025
+URL_BASE: https://jamatec.nl/
+WORDLIST_FILES: /usr/share/wordlists/dirb/common.txt
+OPTION: Silent Mode
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://jamatec.nl/ ----
++ https://jamatec.nl/.git/HEAD (CODE:400|SIZE:16)
++ https://jamatec.nl/.hta (CODE:400|SIZE:16)
++ https://jamatec.nl/.htaccess (CODE:400|SIZE:16)
++ https://jamatec.nl/.htpasswd (CODE:400|SIZE:16)
++ https://jamatec.nl/.svn (CODE:400|SIZE:16)
++ https://jamatec.nl/.svn/entries (CODE:400|SIZE:16)
++ https://jamatec.nl/400 (CODE:200|SIZE:16)
++ https://jamatec.nl/404 (CODE:200|SIZE:7036)
++ https://jamatec.nl/admin.php (CODE:400|SIZE:16)
++ https://jamatec.nl/akeeba.backend.log (CODE:400|SIZE:16)
++ https://jamatec.nl/cgi-bin/ (CODE:301|SIZE:166)
++ https://jamatec.nl/checkout (CODE:200|SIZE:1523)
++ https://jamatec.nl/development.log (CODE:400|SIZE:16)
++ https://jamatec.nl/index (CODE:200|SIZE:189763)
++ https://jamatec.nl/index.html (CODE:200|SIZE:189763)
++ https://jamatec.nl/index.php (CODE:400|SIZE:16)
++ https://jamatec.nl/info.php (CODE:400|SIZE:16)
++ https://jamatec.nl/php.ini (CODE:400|SIZE:16)
++ https://jamatec.nl/phpinfo.php (CODE:400|SIZE:16)
++ https://jamatec.nl/production.log (CODE:400|SIZE:16)
++ https://jamatec.nl/robots.txt (CODE:200|SIZE:64)
++ https://jamatec.nl/sitemap.xml (CODE:200|SIZE:434)
++ https://jamatec.nl/spamlog.log (CODE:400|SIZE:16)
++ https://jamatec.nl/support (CODE:200|SIZE:67696)
++ https://jamatec.nl/WS_FTP.LOG (CODE:400|SIZE:16)
++ https://jamatec.nl/xmlrpc.php (CODE:400|SIZE:16)
++ https://jamatec.nl/xmlrpc_server.php (CODE:400|SIZE:16)
+
+-----------------
+END_TIME: Thu Sep 18 02:56:09 2025
+DOWNLOADED: 4612 - FOUND: 27
